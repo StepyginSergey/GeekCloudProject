@@ -1,4 +1,4 @@
-package com.flamexander.netty.example.client;
+package com.ss.netty.client;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -11,7 +11,7 @@ public class MainClient extends Application {
     public void start(Stage primaryStage) throws Exception{
         FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/main.fxml"));
         Parent root = fxmlLoader.load();
-        primaryStage.setTitle("Box Client");
+        primaryStage.setTitle("Client");
         Scene scene = new Scene(root);
         primaryStage.setScene(scene);
         primaryStage.show();

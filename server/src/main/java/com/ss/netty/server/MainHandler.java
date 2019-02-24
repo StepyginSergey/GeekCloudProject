@@ -1,8 +1,7 @@
-package com.flamexander.netty.example.server;
+package com.ss.netty.server;
 
-import com.flamexander.netty.example.common.AbstractMessage;
-import com.flamexander.netty.example.common.FileMessage;
-import com.flamexander.netty.example.common.FileRequest;
+import com.ss.netty.common.FileMessage;
+import com.ss.netty.common.FileRequest;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.util.ReferenceCountUtil;

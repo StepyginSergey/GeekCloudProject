@@ -1,4 +1,4 @@
-package com.flamexander.netty.example.common;
+package com.ss.netty.common;
 
 import java.io.IOException;
 import java.nio.file.Files;

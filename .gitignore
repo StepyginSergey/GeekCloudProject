@@ -4,3 +4,12 @@
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
+/.idea/.name
+/.idea/encodings.xml
+/Examples/target/classes/JavaNIOExample.class
+/client/target/classes/com/ss/netty/client/MainClient.class
+/client/target/classes/com/ss/netty/client/MainController.class
+/client/target/classes/com/ss/netty/client/Network.class
+/common/target/classes/com/ss/netty/common/AbstractMessage.class
+/common/target/classes/com/ss/netty/common/FileMessage.class
+/common/target/classes/com/ss/netty/common/FileRequest.class
